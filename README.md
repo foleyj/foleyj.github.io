@@ -1,4 +1,4 @@
-# Jim Foley GitHub/Portfolio
+# Jim Foley, technical writer
 
 * [Resume](https://jimfoley.net/assets/Resume.pdf)
 * [Portfolio (writing samples, code, and more)](https://jimfoley.net)
