@@ -1,2 +1,7 @@
-# foleyj.github.io
-Jim Foley's Portfolio
+# Jim Foley GitHub/Portfolio
+
+<ul>
+  <li><a href="assets/Resume.pdf" target="_blank">Resume</a></li>
+  <li><a href="https://jimfoley.net" target="_blank">Portfolio (writing samples & more)</a></li>
+  <li><a href="https://www.linkedin.com/in/jimfoley3/" target="_blank">LinkedIn</a></li>
+</ul>
