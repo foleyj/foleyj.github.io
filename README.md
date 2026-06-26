@@ -1,4 +1,4 @@
-# Jim Foley, technical writer
+# Jim Foley, Technical Writer
 
 * [Resume](https://jimfoley.net/assets/Resume.pdf)
 * [Portfolio (writing samples, code, and more)](https://jimfoley.net)
